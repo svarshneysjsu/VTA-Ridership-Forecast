@@ -1,6 +1,6 @@
 # Bay Area VTA Ridership Forecasting
 The Valley Transportation Authority (VTA) is a public transit agency that serves Santa Clara County, California. VTA provides bus, light rail, and paratransit services.
-In this project, ridership is predicted for VTA stations and analyzing the impact of weather on ridership.
+In this project, ridership is predicted for VTA stations and the impact of weather on ridership is analyzed.
 
 ## Folder Structure
 - raw_data - This will contain all the raw dataset files collected from -
